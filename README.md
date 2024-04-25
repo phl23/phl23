@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+| Category         | Tool                                                                                                            |
+| ---------------- | --------------------------------------------------------------------------------------------------------------- |
+| Primary Language | ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)         |
+| Frontend         | ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)                  |
+| Metaframework    | ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)             |
+| Styling          | ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)     |
+| Editor/IDE       | ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+
 <div style="display: flex; width: 100%; align-items: stretch">
   <a href="https://github.com/phl23">
     <picture height="175">
