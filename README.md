@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <div style="display: flex; width: 100%; align-items: stretch">
   <a href="https://github.com/phl23">
