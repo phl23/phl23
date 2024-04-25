@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/phl23">
-  <img align="center" src="https://github-readme-stats-eight-cyan-30.vercel.app/api?username=phl23&show_icons=true&theme=vision-friendly-dark&show=prs_merged_percentage" />
+  <img height="175" style="max-width: 100%;" src="https://github-readme-stats-eight-cyan-30.vercel.app/api?username=phl23&show_icons=true&theme=vision-friendly-dark&show=prs_merged_percentage" />
 </a>
 <a href="https://github.com/phl23">
-  <img height="200px" align="center" src="https://github-readme-stats-eight-cyan-30.vercel.app/api/top-langs/?username=phl23&layout=compact&exclude_repo=phl23,github-readme-stats,Branson-Technik,php-gallery-weber,b2bWeber,HcaptchaWeber,nextjs-dashboard,hangman,hangman-phil&hide=html&langs_count=8&card_width=320" />
+  <img height="175" style="max-width: 100%;" src="https://github-readme-stats-eight-cyan-30.vercel.app/api/top-langs/?username=phl23&layout=compact&exclude_repo=phl23,github-readme-stats,Branson-Technik,php-gallery-weber,b2bWeber,HcaptchaWeber,nextjs-dashboard,hangman,hangman-phil&hide=html&langs_count=8&card_width=320" />
 </a>
 
 <!--
