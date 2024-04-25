@@ -6,7 +6,7 @@
     <img height="175" style="" src="https://github-readme-stats-eight-cyan-30.vercel.app/api?username=phl23&show_icons=true&theme=vision-friendly-dark&show=prs_merged_percentage" />
   </a>
   <a href="https://github.com/phl23">
-    <img height="175" src="https://github-readme-stats-eight-cyan-30.vercel.app/api/top-langs/?username=phl23&theme=vision-friendly-dark&layout=compact&count_private=true&exclude_repo=phl23,github-readme-stats,Branson-Technik&hide=html&langs_count=8" />
+    <img height="175" src="https://github-readme-stats-eight-cyan-30.vercel.app/api/top-langs/?username=phl23&theme=vision-friendly-dark&layout=compact&count_private=true&exclude_repo=phl23,github-readme-stats,Branson-Technik,php-gallery-weber,b2bWeber,HcaptchaWeber,nextjs-dashboard,hangman,hangman-phil&hide=html&langs_count=8" />
   </a>
 </div>
 
