@@ -31,18 +31,18 @@
       <source
         media="(prefers-color-scheme: dark)"
         srcset="
-          https://github-readme-stats-eight-cyan-30.vercel.app/api/top-langs/?username=Weber-Geraete&theme=vision-friendly-dark&hide_border=true&line_height=25&layout=compact&count_private=true&exclude_repo=phl23,github-readme-stats,Branson-Technik,php-gallery-weber,b2bWeber,HcaptchaWeber,nextjs-dashboard,hangman,hangman-phil&hide=html&langs_count=8
+          https://github-readme-stats-eight-cyan-30.vercel.app/api/top-langs/?username=phl23&theme=vision-friendly-dark&hide_border=true&line_height=25&layout=compact&count_private=true&exclude_repo=phl23,github-readme-stats,Branson-Technik,php-gallery-weber,b2bWeber,HcaptchaWeber,nextjs-dashboard,hangman,hangman-phil&hide=html&langs_count=8
         "
       />
       <source
         media="(prefers-color-scheme: light)"
         srcset="
-          https://github-readme-stats-eight-cyan-30.vercel.app/api/top-langs/?username=Weber-Geraete&theme=buefy&hide_border=true&line_height=25&layout=compact&count_private=true&exclude_repo=phl23,github-readme-stats,Branson-Technik,php-gallery-weber,b2bWeber,HcaptchaWeber,nextjs-dashboard,hangman,hangman-phil&hide=html&langs_count=8
+          https://github-readme-stats-eight-cyan-30.vercel.app/api/top-langs/?username=phl23&theme=buefy&hide_border=true&line_height=25&layout=compact&count_private=true&exclude_repo=phl23,github-readme-stats,Branson-Technik,php-gallery-weber,b2bWeber,HcaptchaWeber,nextjs-dashboard,hangman,hangman-phil&hide=html&langs_count=8
         "
       />
       <img
         alt="phl23's Github stats"
-        src="https://github-readme-stats-eight-cyan-30.vercel.app/api/top-langs/?username=Weber-Geraete&theme=buefy&hide_border=true&line_height=25&layout=compact&count_private=true&exclude_repo=phl23,github-readme-stats,Branson-Technik,php-gallery-weber,b2bWeber,HcaptchaWeber,nextjs-dashboard,hangman,hangman-phil&hide=html&langs_count=8"
+        src="https://github-readme-stats-eight-cyan-30.vercel.app/api/top-langs/?username=phl23&theme=buefy&hide_border=true&line_height=25&layout=compact&count_private=true&exclude_repo=phl23,github-readme-stats,Branson-Technik,php-gallery-weber,b2bWeber,HcaptchaWeber,nextjs-dashboard,hangman,hangman-phil&hide=html&langs_count=8"
       />
     </picture>
   </a>
