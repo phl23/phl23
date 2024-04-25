@@ -31,27 +31,22 @@
       <source
         media="(prefers-color-scheme: dark)"
         srcset="
-          https://github-readme-stats-eight-cyan-30.vercel.app/api/top-langs/?username=phl23&theme=vision-friendly-dark&hide_border=true&line_height=25&layout=compact&custom_title=Used%20Languages%20%28without%20Company%20Repos%29&count_private=true&exclude_repo=phl23,github-readme-stats&langs_count=8&card_width=350
+          https://github-readme-stats-eight-cyan-30.vercel.app/api/top-langs/?username=phl23&theme=vision-friendly-dark&hide_border=true&line_height=25&layout=compact&custom_title=Used%20Languages%20%28w%2Fo%20Company%20Repos%29&count_private=true&exclude_repo=phl23,github-readme-stats&langs_count=8
         "
       />
       <source
         media="(prefers-color-scheme: light)"
         srcset="
-          https://github-readme-stats-eight-cyan-30.vercel.app/api/top-langs/?username=phl23&theme=buefy&hide_border=true&line_height=25&layout=compact&custom_title=Used%20Languages%20%28without%20Company%20Repos%29&count_private=true&exclude_repo=phl23,github-readme-stats&langs_count=8&card_width=350
+          https://github-readme-stats-eight-cyan-30.vercel.app/api/top-langs/?username=phl23&theme=buefy&hide_border=true&line_height=25&layout=compact&custom_title=Used%20Languages%20%28w%2Fo%20Company%20Repos%29&count_private=true&exclude_repo=phl23,github-readme-stats&langs_count=8
         "
       />
       <img
         alt="phl23's Github stats"
-        src="https://github-readme-stats-eight-cyan-30.vercel.app/api/top-langs/?username=phl23&theme=buefy&hide_border=true&line_height=25&layout=compact&custom_title=Used%20Languages%20%28without%20Company%20Repos%29&count_private=true&exclude_repo=phl23,github-readme-stats&langs_count=8&card_width=350"
+        src="https://github-readme-stats-eight-cyan-30.vercel.app/api/top-langs/?username=phl23&theme=buefy&hide_border=true&line_height=25&layout=compact&custom_title=Used%20Languages%20%28w%2Fo%20Company%20Repos%29&count_private=true&exclude_repo=phl23,github-readme-stats&langs_count=8"
       />
     </picture>
   </a>
 </div>
-
-
-
-
-
 
 <!--
 **phl23/phl23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
