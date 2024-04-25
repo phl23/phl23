@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Counter%20Strike-28397F?style=for-the-badge&logo=counterstrike&logoColor=fcac19)
+![](https://img.shields.io/badge/Counter%20Strike-28357A?style=for-the-badge&logo=counterstrike&logoColor=white)
 
 <div style="display: flex; width: 100%; align-items: stretch">
   <a href="https://github.com/phl23">
