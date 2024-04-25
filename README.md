@@ -11,18 +11,18 @@
       <source
         media="(prefers-color-scheme: dark)"
         srcset="
-          https://github-readme-stats-eight-cyan-30.vercel.app/api?username=phl23&show_icons=true&theme=vision-friendly-dark&hide_border=true&line_height=25
+          https://github-readme-stats-eight-cyan-30.vercel.app/api?username=phl23&show_icons=true&theme=vision-friendly-dark&hide_border=true&line_height=25&include_all_commits&rank_icon=github
         "
       />
       <source
         media="(prefers-color-scheme: light)"
         srcset="
-          https://github-readme-stats-eight-cyan-30.vercel.app/api?username=phl23&show_icons=true&theme=buefy&hide_border=true&line_height=25
+          https://github-readme-stats-eight-cyan-30.vercel.app/api?username=phl23&show_icons=true&theme=buefy&hide_border=true&line_height=25&include_all_commits&rank_icon=github
         "
       />
       <img
         alt="phl23's Github stats"
-        src="https://github-readme-stats-eight-cyan-30.vercel.app/api?username=phl23&show_icons=true&theme=buefy&hide_border=true&line_height=25"
+        src="https://github-readme-stats-eight-cyan-30.vercel.app/api?username=phl23&show_icons=true&theme=buefy&hide_border=true&line_height=25&include_all_commits&rank_icon=github"
       />
     </picture>
   </a>
